@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreIdentityDemo.Api", "AspNetCoreIdentityDemo.Api\AspNetCoreIdentityDemo.Api.csproj", "{5F6F96A0-03AC-4239-B725-7B91F6BCD0FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreIdentityDemo.Shared", "AspNetCoreIdentityDemo.Shared\AspNetCoreIdentityDemo.Shared.csproj", "{2A82E2B5-B7A3-432B-85FF-F693F11A7FB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F6F96A0-03AC-4239-B725-7B91F6BCD0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6F96A0-03AC-4239-B725-7B91F6BCD0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6F96A0-03AC-4239-B725-7B91F6BCD0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6F96A0-03AC-4239-B725-7B91F6BCD0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A82E2B5-B7A3-432B-85FF-F693F11A7FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A82E2B5-B7A3-432B-85FF-F693F11A7FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A82E2B5-B7A3-432B-85FF-F693F11A7FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A82E2B5-B7A3-432B-85FF-F693F11A7FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C803656-FCEF-4D59-9D71-C1BAA6F31818}
+	EndGlobalSection
+EndGlobal
